@@ -117,12 +117,5 @@ print("¿No tiene DNI?", not tiene_dni)
 
 **Pregunta Frecuente.**
 
-- ¿Puedo sumar una cadena de texto y un número?
+- ¿Puedo sumar una cadena de texto y un número? Haz un ejemplo, haciendo los cambios necesarios, si es el caso.
 
-❌ No directamente. Eso daría error.
-
-✅ Tienes que convertir el número a cadena:
-
-nombre = "Lucía"
-edad = 20
-print("Hola, me llamo " + nombre + " y tengo " + str(edad) + " años.")
