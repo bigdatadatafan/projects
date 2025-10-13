@@ -115,7 +115,7 @@ print("¿Tiene algún documento?", mayor_edad or tiene_dni)
 print("¿No tiene DNI?", not tiene_dni)
 
 
-**Pregunta Frecuente.**
+**Ejercicio Propuesto.**
 
 - ¿Puedo sumar una cadena de texto y un número? Haz un ejemplo, haciendo los cambios necesarios, si es el caso.
 
